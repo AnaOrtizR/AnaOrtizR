@@ -11,5 +11,5 @@
 - [Journal](https://github.com/AnaOrtizR/Journal)
 
 
-###📫 Contáctame!  
-ana.ortiz.romo@gmai.com / [Linkedin](https://www.linkedin.com/in/anaortizromo/)
+### Contáctame!  
+📫 ana.ortiz.romo@gmai.com / [Linkedin](https://www.linkedin.com/in/anaortizromo/)
