@@ -1,6 +1,6 @@
 ## Hola! Soy Ana 👋
 🖥️ Desarrolladora Backend Junior de Chile, aquí comparto mis proyectos y experimentos. 
-🌱 I’m currently learning Python
+🌱Actualmente aprendiendo Python
 📫 Contáctame!: ana.ortiz.romo@gmai.com / [Linkedin](https://www.linkedin.com/in/anaortizromo/)
 
 ### Últimos articulos publicados
