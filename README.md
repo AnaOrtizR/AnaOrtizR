@@ -1,5 +1,5 @@
 ## Hola! Soy Ana 👋
-🖥️ Desarrolladora Backend Junior de Chile, aquí comparto mis proyectos y experimentos. 
+🖥️ Desarrolladora Backend Junior de Chile, aquí comparto mis proyectos y experimentos.  
 🌱Actualmente aprendiendo:
   - Python Avanzado
   - Flask y SQLAlchemy
